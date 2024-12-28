@@ -2,7 +2,7 @@
 	<div class="custom">
 		<div class="nav-nav">
 			<div class="logo">
-				<a href="">Note taker</a>
+				<a href="">NoteNest</a>
 			</div>
 
 			<div class="nav">
